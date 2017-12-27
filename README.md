@@ -1,4 +1,4 @@
 # Developer
-Python, Scala, R, SQL, Spark Instruction\n
-Developed by Vincent, Wong\n
+Python, Scala, R, SQL, Spark Instruction
+Developed by Vincent, Wong
 Date： Dec 27, 2017
