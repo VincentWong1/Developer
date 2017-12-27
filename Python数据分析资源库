@@ -1,0 +1,207 @@
+# 1.机器学习和计算机视觉
+    Crab：灵活、快速的推荐引擎
+
+    gensim：人性化的话题建模库
+
+    hebel：GPU 加速的深度学习库
+
+    NuPIC：智能计算 Numenta 平台
+
+    pattern：Python 网络挖掘模块
+
+    PyBrain：另一个 Python 机器学习库
+
+    Pylearn2：一个基于 Theano 的机器学习库
+
+    python-recsys：一个用来实现推荐系统的 Python 库
+
+    scikit-learn：基于 SciPy 构建的机器学习 Python 模块
+
+    pydeep：Python 深度学习库
+
+    vowpalporpoise：轻量级 Vowpal Wabbit 的 Python 封装
+
+    skflow：一个 TensorFlow 的简化接口(模仿 scikit-learn)
+
+    Caffe: 一个 Caffe 的python接口
+
+    OpenCV：开源计算机视觉库
+
+    pyocr：Tesseract 和 Cuneiform 的包装库
+
+    pytesseract：Google Tesseract OCR 的另一包装库
+
+    SimpleCV：一个用来创建计算机视觉应用的开源框架
+   
+# 2.数据分析
+    blaze：NumPy 和 Pandas 的大数据接口
+
+    cclib：一个用来解析和解释计算化学软件包输出结果的库
+
+    NetworkX：一个为复杂网络设计的高性能软件
+
+    Neupy：执行和测试各种不同的人工神经网络算法
+
+    Numba：Python JIT (just in time) 编译器，针对科学用的 Python ，由Cython 和 NumPy 的开发者开发
+
+    NumPy：使用 Python 进行科学计算的基础包
+
+    Open Babel：一个化学工具箱，用来描述多种化学数据
+
+    Open Mining：使用 Python 挖掘商业情报 (BI) (Pandas web 接口)
+
+    orange：通过可视化编程或 Python 脚本进行数据挖掘，数据可视化，分析和机器学习
+
+    Pandas：提供高性能，易用的数据结构和数据分析工具
+
+    PyDy：PyDy 是 Python Dynamics 的缩写，用来为动力学运动建模工作流程提供帮助， 基于 NumPy, SciPy, IPython 和 matplotlib
+
+    PyMC：马尔科夫链蒙特卡洛采样工具
+
+    RDKit：化学信息学和机器学习软件
+
+    SciPy：由一些基于 Python ，用于数学，科学和工程的开源软件构成的生态系统
+
+    statsmodels：统计建模和计量经济学
+
+    SymPy：一个用于符号数学的 Python 库
+
+    cclib：一个用来解析和解释计算化学软件包输出结果的库
+
+    NetworkX：一个为复杂网络设计的高性能软件
+
+    Neupy：执行和测试各种不同的人工神经网络算法
+
+    Numba：Python JIT (just in time) 编译器，针对科学用的 Python ，由Cython 和 NumPy 的开发者开发
+
+    NumPy：使用 Python 进行科学计算的基础包
+
+    Open Babel：一个化学工具箱，用来描述多种化学数据
+
+    Open Mining：使用 Python 挖掘商业情报 (BI) (Pandas web 接口)
+
+    orange：通过可视化编程或 Python 脚本进行数据挖掘，数据可视化，分析和机器学习
+
+    Pandas：提供高性能，易用的数据结构和数据分析工具
+
+    PyDy：PyDy 是 Python Dynamics 的缩写，用来为动力学运动建模工作流程提供帮助， 基于 NumPy, SciPy, IPython 和 matplotlib
+
+    PyMC：马尔科夫链蒙特卡洛采样工具
+
+    RDKit：化学信息学和机器学习软件
+
+    SciPy：由一些基于 Python ，用于数学，科学和工程的开源软件构成的生态系统
+
+    statsmodels：统计建模和计量经济学
+
+    SymPy：一个用于符号数学的 Python 库
+ 
+ # 3.数据可视化
+     matplotlib：一个 Python 2D 绘图库
+
+    bokeh：用 Python 进行交互式 web 绘图
+
+    ggplot：ggplot2 给 R 提供的 API 的 Python 版本
+
+    plotly：协同 Python 和 matplotlib 工作的 web 绘图库
+
+    pyecharts：基于百度 Echarts 的数据可视化库
+
+    pygal：一个 Python SVG 图表创建工具
+
+    pygraphviz：Graphviz 的 Python 接口
+
+    PyQtGraph：交互式实时 2D/3D/ 图像绘制及科学/工程学组件
+
+    SnakeViz：一个基于浏览器的 Python's cProfile 模块输出结果查看工具
+
+    vincent：把 Python 转换为 Vega 语法的转换工具
+
+    VisPy：基于 OpenGL 的高性能科学可视化工具
+    
+ #4.数据API构建及服务
+ Django
+
+      django-rest-framework：一个强大灵活的工具，用来构建 web API
+
+      django-tastypie：为Django 应用开发API
+
+      django-formapi：为 Django 的表单验证，创建 JSON APIs 
+
+
+Flask
+
+      flask-api：为 flask 开发的，可浏览 Web APIs 
+
+      flask-restful：为 flask 快速创建REST APIs 
+
+      flask-restless：为 SQLAlchemy 定义的数据库模型创建 RESTful APIs 
+
+      flask-api-utils：为 Flask 处理 API 表示和验证
+
+      eve：REST API 框架，由 Flask, MongoDB 等驱动
+
+
+Pyramid
+
+      cornice：一个Pyramid 的 REST 框架 
+
+
+与框架无关的
+
+      falcon：一个用来建立云 API 和 web app 后端的高性能框架
+
+      sandman：为现存的数据库驱动系统自动创建 REST APIs 
+
+      restless：框架无关的 REST 框架 ，基于从 Tastypie 学到的知识
+
+    ripozo：快速创建 REST/HATEOAS/Hypermedia APIs
+    
+ #5. 爬虫及网页出来
+     Scrapy：一个快速高级的屏幕爬取及网页采集框架
+
+    cola：一个分布式爬虫框架
+
+    Demiurge：基于PyQuery 的爬虫微型框架
+
+    feedparser：通用 feed 解析器
+
+    Grab：站点爬取框架
+
+    MechanicalSoup：用于自动和网络站点交互的 Python 库
+
+    portia：Scrapy 可视化爬取
+
+    pyspider：一个强大的爬虫系统
+
+    RoboBrowser：一个简单的，Python 风格的库，用来浏览网站，而不需要一个独立安装的浏览器
+
+
+    BeautifulSoup：以 Python 风格的方式来对 HTML 或 XML 进行迭代，搜索和修改
+
+    bleach：一个基于白名单的 HTML 清理和文本链接库
+
+    cssutils：一个 Python 的 CSS 库
+
+    html5lib：一个兼容标准的 HTML 文档和片段解析及序列化库
+
+    lxml：一个非常快速，简单易用，功能齐全的库，用来处理 HTML 和 XML
+
+    MarkupSafe：为Python 实现 XML/HTML/XHTML 标记安全字符串
+
+    pyquery：一个解析 HTML 的库，类似 jQuery
+
+    untangle：将XML文档转换为Python对象，使其可以方便的访问
+
+    xhtml2pdf：HTML/CSS 转 PDF 工具
+
+    xmltodict：像处理 JSON 一样处理 XML
+    
+# 6.算法和设计模式
+Python 实现的算法和设计模式。
+
+    algorithms：一个 Python 算法模块
+
+    python-patterns：Python 设计模式的集合
+
+    sortedcontainers：快速，纯 Python 实现的SortedList，SortedDict 和 SortedSet 类型
